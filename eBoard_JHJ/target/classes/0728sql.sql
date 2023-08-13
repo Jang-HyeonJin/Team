@@ -1,3 +1,4 @@
+test
 create table Friday(
 	id number primary key,
 	title varchar2(100) not null,

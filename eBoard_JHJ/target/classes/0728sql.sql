@@ -1,4 +1,4 @@
-test2
+test23
 create table Friday(
 	id number primary key,
 	title varchar2(100) not null,
